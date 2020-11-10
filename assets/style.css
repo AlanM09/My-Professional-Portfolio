@@ -62,7 +62,7 @@ nav{
 	display: none;
 }
 .active a,
-.menu li a:hover{
+.menu-list li a:hover{
 	background-color:#292929;
 	color:#FFF!important;
 	font-weight: bold;
