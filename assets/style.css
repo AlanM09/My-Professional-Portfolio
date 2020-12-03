@@ -203,7 +203,23 @@ nav{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-
+padding-top: 40px;
+}
+.p-heading{
+	text-align: center;
+	margin: 20px 0px;
+}
+.p-heading h1{
+	font-size: 3rem;
+	color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+}
+.p-heading p{
+	color: rgba(249,249,249,0.30);
+	font-size: 1rem;
+	margin: 0px;
+	padding: 0px;
 }
 #contact{
 	width: 100%;
@@ -213,4 +229,16 @@ nav{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+}
+.c-info{
+	font-family: calibri;
+	width: 50%;
+}
+.c-info h1{
+	font-size: 5rem;
+	color: #17d1ac;
+}
+.c-info p{
+	font-size: 1.2rem;
+	color: rgba(251,251,251,0.90);
 }
